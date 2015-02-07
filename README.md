@@ -9,9 +9,9 @@ The amount of material we have to cover is ambitious. You will get the most out 
 
 Key Details | |
 --- | ---
-Course Designation | __TODO__
-Dates | __TODO__
-Class Times | 9am - 5pm, Monday &ndash; Friday
+Course Designation | SEA-C32
+Dates | Feb. 16, 2015 &ndash; Mar. 11, 2015
+Class Times | 9am - 5pm, Monday &amp; Wednesday
 Class Location | Code Fellows HQ (511 Boren Ave N, Seattle, WA 98109)
 
 
@@ -25,16 +25,13 @@ Class Location | Code Fellows HQ (511 Boren Ave N, Seattle, WA 98109)
     - If you have a Windows laptop, you’ll want to set it up to dual boot into Linux. Much web development happens outside the MS stack. It’s good to learn. [Instructions to dual-boot with Ubuntu](https://help.ubuntu.com/community/WindowsDualBoot)
 
 
- 2. Please order your textbooks NOW so they arrive before class starts.
-    - It’s a 2-book set, both are excellent, both are required
-    - Get the set to save, if available: [http://www.amazon.com/dp/1118907442](http://www.amazon.com/dp/1118907442)
-    - You can also find them sold individually if needed
+ 2. Please order your textbook NOW so they arrive before class starts.
+    - Jon Duckett: [JavaScript &amp; jQuery](http://www.amazon.com/dp/1118531647)
+    - It’s also part of a 2-book set, both are excellent (but only the JavaScript one is required): [http://www.amazon.com/dp/1118907442](http://www.amazon.com/dp/1118907442)
 
 ## Prework
 
-All prework assignments are listed in [The __TODO__ Canvas Course](https://canvas.instructure.com/courses/TODO). Canvas is the Learning Management System (LMS) we'll be using for this course. You are responsible for all assignments, events, and communications posted there.
-
-Your prework may take you 20 to 25 hours to complete, so please begin on it **immediately**.
+All prerequisites are listed in [The SEA-C32 Canvas Course](https://canvas.instructure.com/courses/917209). Canvas is the Learning Management System (LMS) we'll be using for this course. You are responsible for all assignments, events, and communications posted there.
 
 ## Communication
 
@@ -61,6 +58,4 @@ We are honored that you are entrusting us with your technical education. If ther
 
 Sincerely,
 
-&ndash; __TODO__ (instructor) and the Code Fellows Team
-
-PS: Please get started on the pre-work assignments right away, so we can assist you on anything that might give you trouble.
+&ndash; Stephanie Lingwood &amp; Mel Quark (instructors) and the Code Fellows Team
